@@ -55,7 +55,8 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
 
     //charts
-    implementation("com.ptrykandpatrick.vico:compose-m3:2.0.0-alpha.28")
+    implementation("com.patrykandpatrick.vico:compose:1.13.1")
+    implementation("com.patrykandpatrick.vico:core:1.13.1")
 
 
 
